@@ -1,0 +1,36 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+h3{
+    margin: 40px 0px 40px 0px;
+}
+.navbar {
+    background-color: rgb(171, 131, 209);
+    
+}
+.logo {
+    margin-left: 50px;
+}
+.nav-link{
+    margin-left: 120px;
+}
+.nav-item {
+    
+}
+.quem-somos {
+    background-color: blueviolet;
+    color: aliceblue;
+}
+.margin {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.parceiros {
+    background-color: rgb(161, 63, 253);
+    color: aliceblue;
+    
+}
+.bg-footer{
+    background-color: rgb(175, 121, 224);
+    color: aliceblue;
+}
